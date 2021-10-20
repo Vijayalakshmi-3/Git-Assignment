@@ -49,7 +49,7 @@ public class _7_ShoppingApplication {
 								+ IceCreams.iceCreams + " ice creams left out! Kindly enter less");
 						continue;
 					}
-					System.out.println("The Total Amount is " + cost + ". Kindly checkout!");
+					System.out.println("The Total Amount is Rs." + cost + "/-. Kindly checkout!");
 					break;
 				}
 			} else {
