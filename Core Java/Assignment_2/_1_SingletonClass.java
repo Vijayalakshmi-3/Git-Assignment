@@ -12,7 +12,7 @@ public class _1_SingletonClass {
 
 	}
 
-	static _1_SingletonClass getInstance() {
+	public static _1_SingletonClass getInstance() {
 
 	if (s == null)
 
