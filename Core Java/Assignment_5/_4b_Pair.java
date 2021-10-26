@@ -37,7 +37,7 @@ public class _4b_Pair {
 		for(int i=0;i<n;i++) {
 			System.out.println(i+1+"\nEnter key:");
 			String key=sc.nextLine();
-			System.out.println("Enter date for Value:");
+			System.out.println("Enter date in dd/mm/yyyy for Value:");
 			pair[i]=new _4b_Pair();
 			pair[i].setKey(key);
 			pair[i].setValue(readDate(sc,"dd/MM/yyyy"));
